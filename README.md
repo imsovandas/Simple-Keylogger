@@ -1,4 +1,4 @@
-# Simple Python Keylogger
+# Simple Keylogger
 
 A simple keylogger implemented in Python using the `pynput` library. This keylogger captures keyboard events and logs them to a specified text file.
 
@@ -13,7 +13,7 @@ A simple keylogger implemented in Python using the `pynput` library. This keylog
 1. Clone the repository:
 
    ```
-   git clone https://github.com/imsovandas/PRODIGY_CS_04.git
+   git clone https://github.com/imsovandas/Simple-Keylogger.git
    ```
 
 2. Install dependencies:
@@ -37,4 +37,4 @@ A simple keylogger implemented in Python using the `pynput` library. This keylog
 4. Open the log file to view captured keystrokes.
 
 ## Author
-Linkdin : [Sovan Das](https://www.linkedin.com/in/sovanking)
+Linkdin : [Sovan Das](https://www.linkedin.com/in/imsovandas)
